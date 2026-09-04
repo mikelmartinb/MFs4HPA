@@ -30,6 +30,12 @@ Therefore, reproducing these figures requires a working LaTeX installation. Alte
 plt.rcParams['text.usetex'] = False
 ```
 
+## Usage
+
+The MF computations can take significant CPU time, using a cluster or HPC environment is recommended. The Planck simulations, maps and masks need to be downloaded prior to computing any Minkowski Functionals. Similarly, MF maps need to be computed prior to executing the Analysis Notebook.
+
+Several storage and directory paths will need to be adjusted to the user's own.
+
 ## Citation
 
 If you make use of the software or analysis in this repository, please consider citing the relevant papers and software.
