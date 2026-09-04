@@ -11,7 +11,6 @@ Clone the repository:
 git clone https://github.com/mikelmartinb/MFs4HPA.git
 cd MFs4HPA
 ```
-```
 
 Then install the required Python packages:
 
